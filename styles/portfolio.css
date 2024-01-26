@@ -18,8 +18,9 @@ p {
 }
 
 .hero {
-    background: #78699e;
+    background: #baaae3;
     text-align: center;
+    padding: 160px 20px;
 }
 
 .hero p {
